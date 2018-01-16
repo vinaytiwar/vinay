@@ -1,0 +1,7 @@
+16250493576-tq3j8rv14rn866aejpi7id2us019318s.apps.googleusercontent.com
+
+------------------------------------------------------------------------
+lattitude and longitute
+28.620040, 77.365575
+longitute of my location 
+28.620141, 77.365791
